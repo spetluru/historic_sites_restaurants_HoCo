@@ -2,7 +2,8 @@
 
 ****************************************************************************************************************************
 #ABOUT 
-****************************************************************************************************************************____________________________________________________________________________________________________________________________
+****************************************************************************************************************************
+____________________________________________________________________________________________________________________________
 This repository was created as a segment of an individual assignment for the course **INFM 600 - Information Environments, Fall 2015** in the **[College of Information Studies](http://ischool.umd.edu/)** at the **[University of Maryland, College Park](http://www.umd.edu/)**. The analysis is meant to assist a team project that is centered on assessing the impact of Free Wi-Fi at the Main Street in Ellicott City, Howard County, Maryland, and explore the possibility of expanding it to other locations to impact tourism and economic development. This project is a part of the **[Partnership for Action Learning in Sustainability (PALS)](http://smartgrowth.umd.edu/pals.html)** initiative that aims to provide local governments with innovative and cost-effective solutions through active collaboration with the student community and faculty members. The datasets have been acquired through the **[Howard County Data Download and Viewer](https://data.howardcountymd.gov/)** website, maintained by the **Howard County GIS Division**. 
 ____________________________________________________________________________________________________________________________
 
