@@ -64,7 +64,7 @@ Howard County. (2014, November). Schools-High. Retrieved October 25, 2015, from
   This dataset lists the various public high schools in Howard County, as of November 2014. Each high school is represented by a unique FID, and contains a name, address, the city it is located in, its zip code, and a geometrical point describing the location on a map of the Howard County. Given the location of various public high schools within Howard County, areas requiring free Wi-Fi can be identified as school premises and immediate surroundings in order to help students gain maximum benefits out of such facilities, especially when they might not have access to a reliable Internet connection at their residence.
 
 ****************************************************************************************************************************
-##PROCESSING
+#PROCESSING
 ****************************************************************************************************************************
 
 For the assignment, two sets have been considered for the joining process - 
