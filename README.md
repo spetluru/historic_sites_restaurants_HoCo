@@ -1,6 +1,9 @@
 #**Historic_sites_restaurants_HoCo**
-____________________________________________________________________________________________________________________________
-This repository was created as a segment of an individual assignment for the course **INFM 600 - Information Environments, Fall 2015** at the **University of Maryland, College Park**. The analysis is meant to assist a team project that is centered on assessing the impact of Free Wi-Fi at the Main Street in Ellicott City, Howard County, Maryland, and explore the possibility of expanding it to other locations to impact tourism and economic development. This project is a part of the **Partnership for Action Learning in Sustainability (PALS)** initiative that aims to provide local governments with innovative and cost-effective solutions through active collaboration with the student community and faculty members.
+
+****************************************************************************************************************************
+#ABOUT 
+****************************************************************************************************************************____________________________________________________________________________________________________________________________
+This repository was created as a segment of an individual assignment for the course **INFM 600 - Information Environments, Fall 2015** in the **[College of Information Studies](http://ischool.umd.edu/)** at the **[University of Maryland, College Park](http://www.umd.edu/)**. The analysis is meant to assist a team project that is centered on assessing the impact of Free Wi-Fi at the Main Street in Ellicott City, Howard County, Maryland, and explore the possibility of expanding it to other locations to impact tourism and economic development. This project is a part of the **[Partnership for Action Learning in Sustainability (PALS)](http://smartgrowth.umd.edu/pals.html)** initiative that aims to provide local governments with innovative and cost-effective solutions through active collaboration with the student community and faculty members. The datasets have been acquired through the **[Howard County Data Download and Viewer](https://data.howardcountymd.gov/)** website, maintained by the **Howard County GIS Division**. 
 ____________________________________________________________________________________________________________________________
 
 
@@ -43,7 +46,8 @@ ________________________________________________________________________________
 ****************************************************************************************************************************
 *Focal dataset:* comprises of the various **historic sites in Howard County, Maryland**. 
 
-Howard County. Department of Planning and Zoning, (n.d.). *Howard County historic sites inventory*. Retrieved October 22, 2015,   from https://data.howardcountymd.gov/geoserver/          ows?service=WFS&version=1.0.0&request=GetFeature&typeName=general:Historic_Sites_View&outputFormat=csv
+Howard County. Department of Planning and Zoning, (n.d.). *Howard County historic sites inventory*. Retrieved October 22, 2015,from    
+  https://data.howardcountymd.gov/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=general:Historic_Sites_View&outputFormat=csv
 
   In this data set, each site is represented by a unique FID, the link to a document describing the record held by the Maryland Historical Trust, a Howard County ID, the name of the historic site, the address of the site, a commonly used name for the site, the city/region in which it is located, the year of the survey, comments about the site’s current state, and a geometrical point describing the location on a map of the Howard County. This dataset is useful for the team project as it provides information about which places most tourists are likely to visit, hence providing insights about the possible locations for the setup of free Wi-Fi.
 
@@ -51,14 +55,14 @@ Howard County. Department of Planning and Zoning, (n.d.). *Howard County histori
 
 a) **Restaurants in Howard County assessed by Healthy Howard**
 
-Howard County. (n.d). *HH\_Restaurants*. Retrieved October 22, 2015, from   
+Howard County. (n.d). *HH\_Restaurants*. Retrieved October 22, 2015, from 
   https://data.howardcountymd.gov/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=general:HH_Restaurants&outputFormat=csv
 
   This dataset describes the various restaurants in Howard County that have been reviewed and assessed as Healthy Restaurants by Healthy Howard, a non-profit based in Columbia, Maryland. Data for each restaurant comprises of a unique FID, name of the restaurant, address of the restaurant, the city it is located in, its zip code, healthy menu items, and a geometrical point describing the location on a map of the Howard County. This dataset can help identify various locations that have maximum tourist or general activity, which in turn could help ascertain areas that would benefit from free Wi-Fi.
 
 b) **Public High Schools in Howard County**
 
-Howard County. (2014, November). *Schools-High*. Retrieved October 25, 2015, from     
+Howard County. (2014, November). *Schools-High*. Retrieved October 25, 2015, from  
   https://data.howardcountymd.gov/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=general:Schools_High&outputFormat=csv
 
   This dataset lists the various public high schools in Howard County, as of November 2014. Each high school is represented by a unique FID, and contains a name, address, the city it is located in, its zip code, and a geometrical point describing the location on a map of the Howard County. Given the location of various public high schools within Howard County, areas requiring free Wi-Fi can be identified as school premises and immediate surroundings in order to help students gain maximum benefits out of such facilities, especially when they might not have access to a reliable Internet connection at their residence.
@@ -103,7 +107,11 @@ Petluru, S. (October, 2015). *Combined_HistoricSites_Restaurants*.
   
 **Other citations that have helped render this dataset:** 
 
+Howard County. Department of Planning and Zoning, (n.d.). *Howard County historic sites inventory*. Retrieved October 22, 2015, from  
+  https://data.howardcountymd.gov/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=general:Historic_Sites_View&outputFormat=csv
 
+Howard County. (n.d). *HH\_Restaurants*. Retrieved October 22, 2015, from  
+  https://data.howardcountymd.gov/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=general:HH_Restaurants&outputFormat=csv
 
 ****************************************************************************************************************************
 #GITHUB
