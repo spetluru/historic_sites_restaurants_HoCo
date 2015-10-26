@@ -94,11 +94,14 @@ More about the research questions and analysis can be found in the *"Data Analys
 **Number of attributes/columns -** 18
 
 ****************************************************************************************************************************
-#TO CITE THIS DATA SOURCE
+#CITATIONS
 ****************************************************************************************************************************
-
+**To cite this dataset: **
 Petluru, S. (October, 2015). Combined_HistoricSites_Restaurants.
   Retrieved from http://github.com/spetluru/historic_sites_restaurants_HoCo/
+  
+**Other citations that have helped render this dataset: **
+
 
 ****************************************************************************************************************************
 #GITHUB
