@@ -21,6 +21,7 @@ Howard County. (n.d). HH\_Restaurants. Retrieved October 22, 2015, from
   This dataset describes the various restaurants in Howard County that have been reviewed and assessed as Healthy Restaurants by Healthy Howard, a non-profit based in Columbia, Maryland. Data for each restaurant comprises of a unique FID, name of the restaurant, address of the restaurant, the city it is located in, its zip code, healthy menu items, and a geometrical point describing the location on a map of the Howard County. This dataset can help identify various locations that have maximum tourist or general activity, which in turn could help ascertain areas that would benefit from free Wi-Fi.
 
 b) **Public High Schools in Howard County**
+
 Howard County. (2014, November). Schools-High. Retrieved October 25, 2015, from     
   https://data.howardcountymd.gov/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=general:Schools_High&outputFormat=csv
 
