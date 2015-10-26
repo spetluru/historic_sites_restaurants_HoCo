@@ -1,7 +1,7 @@
 #**Historic_sites_restaurants_HoCo**
 
 ****************************************************************************************************************************
-#ABOUT 
+###ABOUT 
 ****************************************************************************************************************************
 ____________________________________________________________________________________________________________________________
 This repository was created as a segment of an individual assignment for the course **INFM 600 - Information Environments, Fall 2015** in the **[College of Information Studies](http://ischool.umd.edu/)** at the **[University of Maryland, College Park](http://www.umd.edu/)**. The analysis is meant to assist a team project that is centered on assessing the impact of Free Wi-Fi at the Main Street in Ellicott City, Howard County, Maryland, and explore the possibility of expanding it to other locations to impact tourism and economic development. This project is a part of the **[Partnership for Action Learning in Sustainability (PALS)](http://smartgrowth.umd.edu/pals.html)** initiative that aims to provide local governments with innovative and cost-effective solutions through active collaboration with the student community and faculty members. The datasets have been acquired through the **[Howard County Data Download and Viewer](https://data.howardcountymd.gov/)** website, maintained by the **Howard County GIS Division**. 
@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 
 ****************************************************************************************************************************
-#LIST OF FILES 
+###LIST OF FILES 
 ****************************************************************************************************************************
 
 1) **Historic_Sites_View.csv** - This is a list of historic sites in Howard County.
@@ -43,7 +43,7 @@ ________________________________________________________________________________
 15) **README.txt** - This is a text file describing this repository.
 
 ****************************************************************************************************************************
-#DATA SOURCES
+###DATA SOURCES
 ****************************************************************************************************************************
 *Focal dataset:* comprises of the various **historic sites in Howard County, Maryland**. 
 
@@ -69,7 +69,7 @@ Howard County. (2014, November). *Schools-High*. Retrieved October 25, 2015, fro
   This dataset lists the various public high schools in Howard County, as of November 2014. Each high school is represented by a unique FID, and contains a name, address, the city it is located in, its zip code, and a geometrical point describing the location on a map of the Howard County. Given the location of various public high schools within Howard County, areas requiring free Wi-Fi can be identified as school premises and immediate surroundings in order to help students gain maximum benefits out of such facilities, especially when they might not have access to a reliable Internet connection at their residence.
 
 ****************************************************************************************************************************
-#PROCESSING
+###PROCESSING
 ****************************************************************************************************************************
 
 For the assignment, two sets have been considered for the joining process - 
@@ -87,7 +87,7 @@ For the assignment, two sets have been considered for the joining process -
 More about the research questions and analysis can be found in the *"Data Analysis.pdf"* file.
 
 ****************************************************************************************************************************
-#STATISTICS
+###STATISTICS
 ****************************************************************************************************************************
 
 **File size -** 398 KB
@@ -99,7 +99,7 @@ More about the research questions and analysis can be found in the *"Data Analys
 **Number of attributes/columns -** 18
 
 ****************************************************************************************************************************
-#CITATIONS
+###CITATIONS
 ****************************************************************************************************************************
 **To cite this dataset:**
 
@@ -115,7 +115,7 @@ Howard County. (n.d). *HH\_Restaurants*. Retrieved October 22, 2015, from
   https://data.howardcountymd.gov/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=general:HH_Restaurants&outputFormat=csv
 
 ****************************************************************************************************************************
-#GITHUB
+###GITHUB
 ****************************************************************************************************************************
 
 **User Name :** spetluru
@@ -123,7 +123,7 @@ Howard County. (n.d). *HH\_Restaurants*. Retrieved October 22, 2015, from
 **Repository URL:**  http://github.com/spetluru/historic_sites_restaurants_HoCo/
 
 ****************************************************************************************************************************
-#LICENSE
+###LICENSE
 ****************************************************************************************************************************
 
 This work is licensed under a **Creative Commons Attribution 4.0 International License.** This means you are free to use and share this dataset as you choose. For more information about this license, please visit http://creativecommons.org/licenses/by/4.0/. 
