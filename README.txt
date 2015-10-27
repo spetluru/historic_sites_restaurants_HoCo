@@ -9,19 +9,19 @@ ________________________________________________________________________________
 ****************************************************************************************************************************
 						LIST OF FILES 
 ****************************************************************************************************************************
-1) Historic_Sites_View.csv - This is a list of historic sites in Howard County.
-2) HH_Restaurants.csv - This is a list of restaurants in Howard County that have been reviewed by Healthy Howard.
-3) Combined_HistoricSites_Restaurants.csv - Output file that is the desired file obtained by joining 1) and 2).
-4) Schools_High.csv - This is a list of public high schools in Howard County.
-5) Data Analysis.pdf - This document describes the datasets, possible questions that can be solved using these datasets, and outcome tables and maps.
-6) Processing Document.pdf - This document describes the steps involved in combining the Historic_Sites_View.csv and HH_Restaurants.csv files.
-7) R Script.r - This is an R Script that can be run to perform the merge.
-8) R Snippet.png - This is a screenshot of the execution of the R script
-9) historic_sites_map.png - This is an image depicting the map corresponding to Historic_Sites_View.csv.
-10) restaurants_map.png - This is an image depicting the map corresponding to HH_Restaurants.csv.
-11) public_high_school_map.png - This is an image depicting the map corresponding to Schools_High.csv.
-12) combined_map.png - This is an image depicting the map that combines all three datasets.
-13) sites_restaurants_map.png - This is an image depicting the map that combines Historic Sites and Restaurants across Howard County.
+1) Data Sets/Historic_Sites_View.csv - This is a list of historic sites in Howard County.
+2) Data Sets/HH_Restaurants.csv - This is a list of restaurants in Howard County that have been reviewed by Healthy Howard.
+3) Data Sets/Combined_HistoricSites_Restaurants.csv - Output file that is the desired file obtained by joining 1) and 2).
+4) Data Sets/Schools_High.csv - This is a list of public high schools in Howard County.
+5) Documentation/Data Analysis.pdf - This document describes the datasets, possible questions that can be solved using these datasets, and outcome tables and maps.
+6) Documentation/Processing Document.pdf - This document describes the steps involved in combining the Historic_Sites_View.csv and HH_Restaurants.csv files.
+7) Code/R Script.r - This is an R Script that can be run to perform the merge.
+8) Code/R Snippet.png - This is a screenshot of the execution of the R script
+9) Maps/historic_sites_map.png - This is an image depicting the map corresponding to Historic_Sites_View.csv.
+10) Maps/restaurants_map.png - This is an image depicting the map corresponding to HH_Restaurants.csv.
+11) Maps/public_high_school_map.png - This is an image depicting the map corresponding to Schools_High.csv.
+12) Maps/combined_map.png - This is an image depicting the map that combines all three datasets.
+13) Maps/sites_restaurants_map.png - This is an image depicting the map that combines Historic Sites and Restaurants across Howard County.
 14) historic_sites_restaurants_HoCo.zip - This is a compressed file that contains all files related to the repository.
 15)README.txt - This is a text file describing this repository.
 
