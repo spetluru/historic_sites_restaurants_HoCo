@@ -1,4 +1,4 @@
-
+﻿
 ****************************************************************************************************************************
 					                ABOUT
 ****************************************************************************************************************************
@@ -82,13 +82,13 @@ Number of attributes/columns - 18
 To cite this dataset:
 
 Petluru, S. (October, 2015). Combined_HistoricSites_Restaurants.
-Retrieved from http://github.com/spetluru/historic_sites_restaurants_HoCo/
+Available from http://github.com/spetluru/historic_sites_restaurants_HoCo/
 
 Other citations that have helped render this dataset:
 
-Howard County. Department of Planning and Zoning, (n.d.). Howard County historic sites inventory. Retrieved October 22, 2015, from https://data.howardcountymd.gov/geoserver/ ows?service=WFS&version=1.0.0&request=GetFeature&typeName=general:Historic_Sites_View&outputFormat=csv
+Howard County. Department of Planning and Zoning, (n.d.). Howard County historic sites inventory. Retrieved from https://data.howardcountymd.gov/geoserver/ ows?service=WFS&version=1.0.0&request=GetFeature&typeName=general:Historic_Sites_View&outputFormat=csv
 
-Howard County. (n.d). HH_Restaurants. Retrieved October 22, 2015, from https://data.howardcountymd.gov/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=general:HH_Restaurants&outputFormat=csv
+Howard County. (n.d). HH_Restaurants. Retrieved from https://data.howardcountymd.gov/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=general:HH_Restaurants&outputFormat=csv
 
 
 ****************************************************************************************************************************
