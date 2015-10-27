@@ -32,7 +32,7 @@ ________________________________________________________________________________
 Focal dataset: comprises of the various historic sites in Howard County, Maryland. 
 Howard County. Department of Planning and Zoning, (n.d.). Howard County historic sites inventory. Retrieved October 22, 2015, from https://data.howardcountymd.gov/geoserver/ ows?service=WFS&version=1.0.0&request=GetFeature&typeName=general:Historic_Sites_View&outputFormat=csv
 
-In this data set, each site is represented by a unique FID, the link to a document describing the record held by the Maryland Historical Trust, a Howard County ID, the name of the historic site, the address of the site, a commonly used name for the site, the city/region in which it is located, the year of the survey, comments about the site’s current state, and a geometrical point describing the location on a map of the Howard County. This dataset is useful for the team project as it provides information about which places most tourists are likely to visit, hence providing insights about the possible locations for the setup of free Wi-Fi.
+In this data set, each site is represented by a unique FID, the link to a document describing the record held by the Maryland Historical Trust, a Howard County ID, the name of the historic site, the address of the site, a commonly used name for the site, the city/region in which it is located, the year of the survey, comments about the siteâ€™s current state, and a geometrical point describing the location on a map of the Howard County. This dataset is useful for the team project as it provides information about which places most tourists are likely to visit, hence providing insights about the possible locations for the setup of free Wi-Fi.
 
 Other Datasets central to the analysis:
 
@@ -82,7 +82,7 @@ Number of attributes/columns - 18
 To cite this dataset:
 
 Petluru, S. (October, 2015). Combined_HistoricSites_Restaurants.
-Retrieved from http://github.com/spetluru/historic_sites_restaurants_HoCo/DataSets
+Retrieved from http://github.com/spetluru/historic_sites_restaurants_HoCo/
 
 Other citations that have helped render this dataset:
 
