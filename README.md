@@ -104,7 +104,7 @@ More about the research questions and analysis can be found in the *"Data Analys
 **To cite this dataset:**
 
 Petluru, S. (October, 2015). *Combined_HistoricSites_Restaurants*.
-  Retrieved from http://github.com/spetluru/historic_sites_restaurants_HoCo/DataSets
+  Retrieved from http://github.com/spetluru/historic_sites_restaurants_HoCo/
   
 **Other citations that have helped render this dataset:** 
 
