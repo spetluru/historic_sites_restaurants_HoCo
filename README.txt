@@ -9,10 +9,10 @@ ________________________________________________________________________________
 ****************************************************************************************************************************
 						LIST OF FILES 
 ****************************************************************************************************************************
-1) Data Sets/Historic_Sites_View.csv - This is a list of historic sites in Howard County.
-2) Data Sets/HH_Restaurants.csv - This is a list of restaurants in Howard County that have been reviewed by Healthy Howard.
-3) Data Sets/Combined_HistoricSites_Restaurants.csv - Output file that is the desired file obtained by joining 1) and 2).
-4) Data Sets/Schools_High.csv - This is a list of public high schools in Howard County.
+1) DataSets/Historic_Sites_View.csv - This is a list of historic sites in Howard County.
+2) DataSets/HH_Restaurants.csv - This is a list of restaurants in Howard County that have been reviewed by Healthy Howard.
+3) DataSets/Combined_HistoricSites_Restaurants.csv - Output file that is the desired file obtained by joining 1) and 2).
+4) DataSets/Schools_High.csv - This is a list of public high schools in Howard County.
 5) Documentation/Data Analysis.pdf - This document describes the datasets, possible questions that can be solved using these datasets, and outcome tables and maps.
 6) Documentation/Processing Document.pdf - This document describes the steps involved in combining the Historic_Sites_View.csv and HH_Restaurants.csv files.
 7) Code/R Script.r - This is an R Script that can be run to perform the merge.
@@ -82,7 +82,7 @@ Number of attributes/columns - 18
 To cite this dataset:
 
 Petluru, S. (October, 2015). Combined_HistoricSites_Restaurants.
-Retrieved from http://github.com/spetluru/historic_sites_restaurants_HoCo/
+Retrieved from http://github.com/spetluru/historic_sites_restaurants_HoCo/DataSets
 
 Other citations that have helped render this dataset:
 
